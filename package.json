@@ -16,6 +16,7 @@
     "@types/three": "^0.176.0",
     "03-first-threejs-project": "file:",
     "gsap": "^3.13.0",
+    "lil-gui": "^0.20.0",
     "three": "^0.176.0"
   }
 }
